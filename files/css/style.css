@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+i{
+    font-size:30px;
+}
+ol li{
+    display:inline-block;
+    padding: 5px;
+    margin-left:10px;
+    justify-content: center;
+}
+.bg{
+background-color: blue;
+}
+.ft{
+    color:white;
+}
+ol li:hover{
+    color:red;
+}
+img{
+    border-radius:50px;
+    border:2px solid white;
+}
+p{
+    text-align:left;
+}
